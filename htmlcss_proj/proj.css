@@ -1,0 +1,48 @@
+.c1
+{
+	width:475px;
+	border-radius:20px;
+	background-color:#57B846;
+	font-family: sans-serif; 
+	font-size:16px;
+}
+.c2
+{
+	padding:30px;
+	color:white;
+}
+.g
+{
+	background-color:white;
+	padding:30px;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;   
+}
+.c3
+{
+	margin-top: 100px;
+}
+body
+{
+		background-color:#D2CECE;
+		margin-left: 40%;
+		margin-top: 10%;
+		font-size:10px;
+}
+input[type=text],[type=password]
+{
+	background-color:#D2CECE;
+	border: none;
+	padding: 13px 180px 13px 10px ;
+	font-weight: 1000;
+	border-radius:20px;
+}
+button[type=button]
+{
+	background-color:#57B846;
+	border: none;
+	padding: 10px 147px 10px 167px ;
+	border-radius:20px;
+	font-weight: bold;
+	color: white;
+}
